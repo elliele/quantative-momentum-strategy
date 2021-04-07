@@ -6,9 +6,9 @@ Program was build using the sandbox version of IEX Cloud API. IEX Cloud provides
 
 Please note that sandbox response data is purposefully manipulated to scramble values and is not suitable for production usage. Data returned in the sandbox will look real, but strings are scrambled, dates are maniuplated, and numbers are changed.
 
-### How to use
+## How to use
 The base url is https://sandbox.iexapis.com
 
-### Documentation
+## Documentation
 https://iexcloud.io/docs/api/#testing-sandbox
 
