@@ -1,5 +1,5 @@
 # Quantative Momentum Strategy
-Building a quantitative momentum investing strategy based on the S&P 500.
+Building a quantitative momentum investing strategy based on the S&P500.
 
 ## IEX Cloud API
 Program was build using the sandbox version of IEX Cloud API. IEX Cloud provides all accounts a free, unlimited use sandbox for testing. Every account will be assigned two test tokens available via the Console. 
